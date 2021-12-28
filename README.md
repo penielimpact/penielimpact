@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @penielimpact
-- 👀 I’m interested in intergrating in Fintech for climate innovation 
-- 🌱 I’m currently learning .NET, 
+- 👀 I’m interested in the intergration of Fintech with climate innovation 
+- 🌱 I’m currently learning .NET, Kubernetes 
 - 💞️ I’m looking to collaborate on .NET, Climate Technology, Python and Unity for Hololense.
 - 📫 How to reach me [ you reach me via email: bk@penielimpact.com]
 
